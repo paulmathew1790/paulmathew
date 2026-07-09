@@ -27,11 +27,10 @@
 
 ## Folder Contents
 
-* Day1_Coding_Problems.ipynb
-* Day1_Mini_PoC.ipynb
-* Day1 Learning Summary.md
-* AI_Usage_Log.md
-* Day1_Quiz.md
+* Coding Problems.ipynb
+* Day1 Learning Summary.docx
+* requirement.txt
+*   
 
 ## Technologies Used
 

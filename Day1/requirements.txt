@@ -1,0 +1,24 @@
+# Jupyter Environment
+jupyter
+notebook
+ipykernel
+
+# Data Analysis
+numpy
+pandas
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Scientific Computing
+scipy
+
+# Machine Learning
+scikit-learn
+
+# AI Libraries
+openai
+transformers
+datasets
+
