@@ -132,9 +132,9 @@ Successfully completed the mathematical foundations required for AI and Machine 
 
 ### 📅 Progress
 
-- ✅ Day 1 – Python Fundamentals
-- ✅ Day 2 – Object-Oriented Programming & File Handling
-- ✅ Day 3 – Data Structures & Algorithms
+- ✅ Day 1 – AI & Development Environment
+- ✅ Day 2 – Python Fundamentals
+- ✅ Day 3 – Object-Oriented Programming & File Handling
 - ✅ **Day 4 – Mathematics for Artificial Intelligence**
 - 🔜 Day 5 – Machine Learning Fundamentals
 
