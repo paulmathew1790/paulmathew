@@ -1,0 +1,11 @@
+# Day 6 - Data Analysis & Data Cleaning Notebook
+# Core libraries for NumPy, Pandas, and notebook-based data work
+numpy
+pandas
+openpyxl
+jupyter
+notebook
+ipykernel
+matplotlib
+seaborn
+scikit-learn
